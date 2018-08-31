@@ -1,4 +1,4 @@
 # hello-world
 Hello World
 
-My name is Sean and I am way cooler than Gage.
+My name is Gage and I am way cooler than Sean.
